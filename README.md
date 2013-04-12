@@ -10,6 +10,13 @@ Stupid XML Serialization Tricks
 
 Ok, maybe not stupid tricks. "Various techniques you can use to craft xml in the exact shape you need" is more accurate, but far less catchy. Although XML is less sexy as it was 10 years ago, it is still incredibly useful, and many enterprise codebases use it extensively. If you're a member of one of these organizations, knowing how to create an object graph that correctly serializes to the required XML is invaluable. This session will expose you to techniques that will help you get the job done. Be a hero. Save the day. All with XML serialization.
 
+The Nomadic Monad or: How I Learned to Stop Worrying and Love the Burrito
+=========================================================================
+
+Monads. You may have heard of them. You might be wondering what they are. You may just want to know what they’re good for. The funny thing is there's a really good chance that you're already using monadic patterns.
+
+In this code-centric session, we’ll talk about what exactly a monad is. We’ll explore the relationship between monads and LINQ. We’ll discover how they can make your code more fluent and readable. By the end of the session, you’ll discover that monads aren’t as scary as you might have once thought. And you just might add another tool to your toolbelt.
+
 Bio
 ===
 
