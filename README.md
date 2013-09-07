@@ -17,6 +17,13 @@ Monads. You may have heard of them. You might be wondering what they are. You ma
 
 In this code-centric session, we’ll talk about what exactly a monad is. We’ll explore the relationship between monads and LINQ. We’ll discover how they can make your code more fluent and readable. By the end of the session, you’ll discover that monads aren’t as scary as you might have once thought. And you just might add another tool to your toolbelt.
 
+Blast from the past - What I learned by from a fifty-year-old language
+=========================================================================
+
+So you've been writing code for a while. You're familiar with a few programming paradigms. Like object-oriented programming - you're probably fluent in that one. And you probably know about functional programming. But what about other paradigms? Older ones. Like, for example, procedural programming. How fluent (or even just familiar) are you with it? What if you could go back in time? To a time when procedural programming ruled the business world. Could you write something useful in a language from that time? Say, for example, in COBOL? Could you do it? \*Could\* you?
+
+Well \*I\* did. And I'd like to talk about what I learned. I took my experience in object-oriented and functional programming and threw it away. I entered the land of the Y2K bug - COBOL. When I emerged from this strange land, I found that I had resurrected an old dinosaur. And I had a blast doing it too.
+
 Bio
 ===
 
