@@ -31,6 +31,17 @@ You know what open source software is. You probably use open source software eve
 
 I've started several small open source projects in the last couple years. And I'd like to talk about why I created them. I'd like to talk about what it takes to get a project started. And I'd like to talk about the numerous benefits to owning an open source project. So go on, make that open source project - I've done it, and you can too.
 
+Understanding Dependency Injection in .NET (co-presented with Ondrej Balas)
+==========================================
+
+Your dream has come true! You just got hired in as a game developer for Bad Snowstorm Inc. They are almost ready to launch their new text-based adventure game, but their development team (Billy, the CEO’s son) is having a hard time keeping up with changing requirements. Billy never learned about interfaces or loosely coupled code, so your job will be to implement better practices that will make adding requirements faster than an avalanche.
+
+In this double-session we will be exploring Dependency Injection from several angles. Maybe the codebase you work in is an unmaintainable mess, and you want to do something about it. We can help with that. Or maybe you want to learn what exactly, DI containers such as StructureMap or Ninject do. Perhaps you just want to know if you can really trust DI containers. We can help with those too, since we’ll actually be writing a simple DI container from scratch. And maybe you’ve heard that DI makes your code more testable (spoiler: it does). In fact, DI and testability go together like peas and carrots!
+
+So join us, and unravel the mysteries of Dependency Injection as we refactor Bad Snowstorm’s new game: Null Quest.
+
+We strongly recommend (but do not absolutely require) that attendees bring a laptop to this session, as there will be follow-along examples.
+
 Bio
 ===
 
