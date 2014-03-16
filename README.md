@@ -24,6 +24,13 @@ So you've been writing code for a while. You're familiar with a few programming 
 
 Well \*I\* did. And I'd like to talk about what I learned. I took my experience in object-oriented and functional programming and threw it away. I entered the land of the Y2K bug - COBOL. When I emerged from this strange land, I found that I had resurrected an old dinosaur. And I had a blast doing it too.
 
+Open source all the things!
+===========================
+
+You know what open source software is. You probably use open source software every day. But are you contributing to any projects? Do you own any? How do you get involved in the open source world? Existing projects can be intimidating. Ideas for new projects are hard to come by. Or are they?
+
+I've started several small open source projects in the last couple years. And I'd like to talk about why I created them. I'd like to talk about what it takes to get a project started. And I'd like to talk about the numerous benefits to owning an open source project. So go on, make that open source project - I've done it, and you can too.
+
 Bio
 ===
 
