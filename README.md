@@ -78,7 +78,6 @@ around."
 "Right."
 ```
 This is a talk about metaprogramming. I program in C#. You should see this talk, it'll be fun.
-***NOTE: Everything above this line is actually part of the abstract. The underscores are there to simulate right-justifying text with a wide left margin. The other lines include a simulated wide right margin. If this talk is selected, it doesn't really matter what mechanism is used to get the text to render in a given medium. Basically, it's a conversation, and the alignment should reflect that.
 
 Understanding Dependency Injection in .NET (co-presented with Ondrej Balas)
 ==========================================
