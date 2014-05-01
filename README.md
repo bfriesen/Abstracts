@@ -31,6 +31,55 @@ You know what open source software is. You probably use open source software eve
 
 I've started several small open source projects in the last couple years. And I'd like to talk about why I created them. I'd like to talk about what it takes to get a project started. And I'd like to talk about the numerous benefits to owning an open source project. So go on, make that open source project - I've done it, and you can too.
 
+I'm So Meta Even This tAlk (ISMETA)
+===================================
+
+"I'm thinking about doing a
+talk about metaprogramming."
+
+                        "Really? What's that?"
+
+"Basically, it's code that
+writes code, then executes
+it."
+
+                        "Wait, what? You want to write
+                        code that writes code?"
+
+"Well, I want to do a talk
+about it, but that's close
+enough."
+
+                        "What possible use could
+                        that have? And what kind
+                        of sick twisted monkey would
+                        want to do that?"
+
+"Naturally, I would. You
+know, since I'm a sick,
+twisted monkey."
+                        "Well that goes without saying."
+
+"You see, some problems
+are extremely difficult to
+solve without metaprogramming."
+
+                        "But... but... you *have* to be
+                        violating some law of physics
+                        or something."
+
+"Nah. It's actually not that
+hard to wrap your head
+around."
+
+                        "Really? You should do a talk
+                        about that."
+
+"Right."
+
+This is a talk about metaprogramming. I program in C#. You should see this talk, it'll be fun.
+***NOTE: Everything above this line is actually part of the abstract. The underscores are there to simulate right-justifying text with a wide left margin. The other lines include a simulated wide right margin. If this talk is selected, it doesn't really matter what mechanism is used to get the text to render in a given medium. Basically, it's a conversation, and the alignment should reflect that.
+
 Understanding Dependency Injection in .NET (co-presented with Ondrej Balas)
 ==========================================
 
