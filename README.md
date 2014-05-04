@@ -93,4 +93,4 @@ We strongly recommend (but do not absolutely require) that attendees bring a lap
 Bio
 ===
 
-Brian Friesen has been pretending to be a developer for the last 8 years and lives in constant fear of being found out. He still can't believe he was chosen for an MVP Award for C#. As an occasional public speaker, he prefers to talk about things that are slightly out in left field. He lives in Detroit and works for a seriously great company, Quicken Loans.
+Brian Friesen has been pretending to be a developer for the last 8 years and lives in constant fear of being found out. He still can't believe he received a C# MVP in 2014. As an occasional public speaker, he prefers to talk about things that are slightly out in left field. He lives near Detroit and works for a seriously great company, Quicken Loans.
