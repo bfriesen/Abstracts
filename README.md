@@ -1,4 +1,4 @@
-Regular Expressions (now you’ve got two problems)
+Regular Expressions (now you have two problems)
 =================================================
 
 Be afraid. Be very afraid. For you are about to enter the mysterious and foreboding land of regular expressions. A land of strange-looking hieroglyphics. A land of many flavors and implementations. A land whose inhabitants possess seemingly magical powers over text. But fear no more, for you needn't make the journey alone: a guide and a map await you.
