@@ -36,9 +36,13 @@ I'm So Meta Even This Abstract (ISMETA)
 ```
 "So how did your metaprogramming
 talk go at DevLink?"
-                                 "Really well. I presented concepts
-                                 and examples that devs of all
-                                 levels could learn from. Also, no
+                                 "Really well. I used examples
+                                 of when I used metaprogramming
+                                 throughout my career. From
+                                 accessing the value of a private
+                                 field, to how to optimize
+                                 reflection calls, there was something
+                                 for devs of all levels. Also, no
                                  one fell asleep."
 "Awesome. Did you tell the
 'cautionary story of shame
@@ -54,7 +58,7 @@ talk?"
                                  this right now. So... maybe?"
 "Seriously man, you are
 not normal."
-                                 "Yeah."
+                                 "And?"
 ```
 This is a talk about metaprogramming. I program in C#. You should see this talk - it'll be fun and you're sure to learn something neat.
 
