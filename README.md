@@ -3,7 +3,7 @@ Regular Expressions (now you have two problems)
 
 Be afraid. Be very afraid. For you are about to enter the mysterious and foreboding land of regular expressions. A land of strange-looking hieroglyphics. A land of many flavors and implementations. A land whose inhabitants possess seemingly magical powers over text. But fear no more, for you needn't make the journey alone: a guide and a map await you.
 
-In this session, we'll take a whirlwind tour of the features found in most regular expression implementations. Then we'll dive deep. We'll take a peek *inside* a regular expression engine. From character literals to character classes, from backreferences to look-around, you'll see every step a regular expression engine takes when it parses text. By the end of the session, you'll be able to *think* like a regular expression engine.
+In this session, we'll take a whirlwind tour of the features found in most regular expression implementations. We'll dive deep. And take a peek *inside* a regular expression engine. From character literals to character classes, from backreferences to look-around, you'll see every step a regular expression engine takes when it parses text. By the end of the session, you'll be able to think *like* a regular expression engine.
 
 Stupid XML Serialization Tricks
 ===============================
