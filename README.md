@@ -53,9 +53,9 @@ and woe'?"
 "Weirdo. So, do you think
 CodeMash will accept this
 talk?"
-                                 "That's kind of complicated to
-                                 answer - it depends who's reading
-                                 this right now. So... maybe?"
+                                 "It's kind of complicated to answer
+                                 that right now. It depends on who's
+                                 reading this and when. So... maybe?"
 "Seriously man, you are
 not normal."
                                  "And?"
