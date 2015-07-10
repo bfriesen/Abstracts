@@ -62,6 +62,13 @@ not normal."
 ```
 This is a talk about metaprogramming. I program in C#. You should see this talk - it'll be fun and you're sure to learn something neat.
 
+Sprache - When Regex Just Won't Cut It
+======================================
+
+I love regular expressions. I *really* do. But they're not always the right tool for the job. Sometimes they're overkill. Other times, regular expressions are just not powerful enough. This is where Sprache comes in.
+
+Sprache is a .NET library that allows you to easily and succinctly define the grammar you need to support. It projects raw text into a fully-constructed object graph in exactly one step. Sprache excels at parsing DSLs, fixed-width data formats, and markup languages. By the end of this session, you'll have an awesome new tool in your toolbelt. And as an extra bonus, you'll understand why the secret of LINQ is monads.
+
 Understanding Dependency Injection in .NET (co-presented with Ondrej Balas)
 ==========================================
 
