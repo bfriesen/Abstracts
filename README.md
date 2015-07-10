@@ -31,36 +31,14 @@ You know what open source software is. You probably use open source software eve
 
 I've started several small open source projects in the last couple years. And I'd like to talk about why I created them. I'd like to talk about what it takes to get a project started. And I'd like to talk about the numerous benefits to owning an open source project. So go on, make that open source project - I've done it, and you can too.
 
-I'm So Meta Even This Abstract (ISMETA)
-===================================
-```
-"So how did your metaprogramming
-talk go at DevLink?"
-                                 "Really well. I used examples
-                                 of when I used metaprogramming
-                                 throughout my career. From
-                                 accessing the value of a private
-                                 field, to how to optimize
-                                 reflection calls, there was something
-                                 for devs of all levels. Also, no
-                                 one fell asleep."
-"Awesome. Did you tell the
-'cautionary story of shame
-and woe'?"
-                                 "Yeah, it was great. There's
-                                 nothing like humiliating yourself
-                                 in front of people. On purpose."
-"Weirdo. So, do you think
-CodeMash will accept this
-talk?"
-                                 "It's kind of complicated to answer
-                                 that right now. It depends on who's
-                                 reading this and when. So... maybe?"
-"Seriously man, you are
-not normal."
-                                 "And?"
-```
-This is a talk about metaprogramming. I program in C#. You should see this talk - it'll be fun and you're sure to learn something neat.
+I'm So Meta, Even This Abstract (ISMETA)
+========================================
+"Meta-" is such a cool prefix. For example, if this abstract referred to itself, which it is currently doing, it would become a meta-abstract, which it just did. Meta-programming is kind of like that - except it's code referring to code. If you're confused right now, don't worry - I'll explain everything. And I'll explain it using real examples of when I've used meta-programming throughout my career. I might even share an example or two when meta-programming made a huge mess of things. It'll be entertaining for you and embarrassing for me.
+
+This session answers three questions:
+ - What is meta-programming?
+ - How do I do meta-programming in .NET?
+ - Why would I want to use meta-programming?
 
 Sprache - When Regex Just Won't Cut It
 ======================================
