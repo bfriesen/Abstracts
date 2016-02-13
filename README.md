@@ -47,6 +47,15 @@ I love regular expressions. I *really* do. But they're not always the right tool
 
 Sprache is a .NET library that allows you to easily and succinctly define the grammar you need to support. It projects raw text into a fully-constructed object graph in exactly one step. Sprache excels at parsing DSLs, fixed-width data formats, and markup languages. By the end of this session, you'll have an awesome new tool in your toolbelt. And as an extra bonus, you'll understand why the secret of LINQ is monads.
 
+"But I don't wanna!" - Making .NET Eat Its Vegetables
+=====================================================
+
+Don't let .NET tell you no.
+
+Every kid is different when it comes to getting them to eat their vegetables. You can smother their broccoli in cheese or hide the peas in their mashed potatoes. Sometimes you need to make ridiculous choo-choo train sounds. Threatening to withhold dessert can work. You can almost always get them to eat their vegetables - figuring out how is the hard part.
+
+.NET can behave like a reluctant child. Sometimes it seems that it just won't do what you want it to do. What you need it to do. But there is almost always a way to entice, coerce, or manipulate it to get it to do your bidding. And here's the kicker: it's by design. In this session, we'll explore some of the many ways you can get .NET to eat its vegetables.
+
 Understanding Dependency Injection in .NET (co-presented with Ondrej Balas)
 ==========================================
 
