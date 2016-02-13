@@ -52,7 +52,7 @@ Sprache is a .NET library that allows you to easily and succinctly define the gr
 
 Don't let .NET tell you no.
 
-Every kid is different when it comes to getting them to eat their vegetables. You can smother their broccoli in cheese or hide the peas in their mashed potatoes. Sometimes you need to make ridiculous choo-choo train sounds. Threatening to withhold dessert can work. You can almost always get them to eat their vegetables - figuring out how is the hard part.
+Every kid is different when it comes to getting them to eat their vegetables. You can smother their broccoli in cheese or hide the peas in their mashed potatoes. Sometimes you need to make ridiculous choo-choo train sounds. Threatening to withhold dessert can work too. The point is, you can *almost* always get them to eat their vegetables - it's figuring out how that's the hard part.
 
 Sometime, it seems that .NET behaves like a reluctant child - it just won't do what you want it to do. What you *need* it to do. But there is almost always a way to entice, coerce, or manipulate it to get it to do your bidding. And here's the kicker: it's by design. .NET was created with many backdoors that you can exploit. In this session, we'll explore some of the ways you can get .NET to behave in ways you never thought possible. Go ahead, make .NET eat its vegetables. It'll be good for it.
 
