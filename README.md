@@ -43,9 +43,11 @@ This session answers three questions:
 Sprache - Even Better Than Regex
 =================================
 
-I love regular expressions. I *really* do. But they're not always the right tool for the job. Sometimes they're overkill. Other times, regular expressions are just not powerful enough. This is where Sprache comes in.
+Learn about Sprache, a .NET parsing library, in this TDD-driven, live-coding presentation.
 
-Sprache is a .NET library that allows you to easily and succinctly define the grammar you need to support. It projects raw text into a fully-constructed object graph in exactly one step. Sprache excels at parsing DSLs, fixed-width data formats, and markup languages. By the end of this session, you'll have an awesome new tool in your toolbelt. And as an extra bonus, you'll understand why the secret of LINQ is monads.
+Regular expressions are great... when they're the right tool for the job. But they aren't always the right tool. Sometimes they're overkill. Other times, they're simply not powerful enough - this is where Sprache shines.
+
+Sprache is a .NET library that allows you to easily and succinctly define the grammar you need to support. It projects raw text into a fully-constructed object graph in exactly one step. It excels at parsing DSLs, fixed-width data formats, hierarchical data, and markup languages. By the end of this session, you'll have an awesome new tool in your toolbelt. And as an extra bonus, you'll understand why the secret of LINQ is monads.
 
 "But I don't wanna!" - Making .NET Eat Its Vegetables
 =====================================================
