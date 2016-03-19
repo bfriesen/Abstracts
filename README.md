@@ -40,7 +40,7 @@ This session answers three questions:
  - How do I do meta-programming in .NET?
  - Why would I want to use meta-programming?
 
-Sprache - Even Bettern Than Regex
+Sprache - Even Better Than Regex
 =================================
 
 I love regular expressions. I *really* do. But they're not always the right tool for the job. Sometimes they're overkill. Other times, regular expressions are just not powerful enough. This is where Sprache comes in.
